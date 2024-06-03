@@ -1,2 +1,2 @@
 # HomeGPIO
-A general IO system for use with Home Assistant. Based on a ESP32 controller with ESPHome.
+A modular IO system for use with Home Assistant. Based on an ESP32 controller with ESPHome software.
