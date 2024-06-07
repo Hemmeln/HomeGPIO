@@ -1,4 +1,4 @@
-![HomeGPIO Logo](https://github.com/Hemmeln/HomeGPIO/blob/main/HomeGPIO_thight.png)
+![HomeGPIO Logo](https://github.com/Hemmeln/HomeGPIO/blob/main/HomeGPIO_thight_s.png)
 
 # HomeGPIO
 
